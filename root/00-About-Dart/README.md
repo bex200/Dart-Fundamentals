@@ -1,7 +1,9 @@
-# Hi there 👋!
+# What is Dart?
 
-### Most likely, you already know another programming language
-### However, even if you don't, this is a great place to start
+## Hi there👋   
+
+#### Most likely, you already know another programming language
+#### However, even if you don't, this is a great place to start
 
 >**Programming language** is just a tool to speak to computer. ***Dart*** is one of the many of them. It is popular with Mobile Developers, for its agility (fast rebuilds) and cross-platform development
 
