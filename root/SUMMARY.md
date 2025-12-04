@@ -1,3 +1,4 @@
 # Table of contents
 
-* [About Dart](root/00-About-Dart/README.md)
+* [Welcome](./README.md)
+* [About Dart](./00-About-Dart/README.md)
